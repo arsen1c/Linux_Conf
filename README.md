@@ -9,4 +9,4 @@ Say you want to use your config on an other computer, here’s what you have to 
 
 Done.
 
-**For more [check this discussion]()**
+**For more [check this discussion](https://forum.sublimetext.com/t/what-s-the-best-way-to-backup-the-st3-configuration/25494)**
