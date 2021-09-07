@@ -57,9 +57,31 @@
 	/*"gnc_h21": true,*/
 	/*"gnc_m07": true,*/
 	/*"gnc_w1m12": true,*/
-	"gnc_h21": true,
+	/*"gnc_h21": true,*/
 	/*"gnc_m01": true,*/
-	"gnc_w1m14": true,
+	/*"gnc_w1m14": true,*/
+	/*"gnc_001": false,*/
+	/*"gnc_m02": true,*/
+	/*"gnc_002": true,*/
+	/*"gnc_h22": true,*/
+	/*"gnc_m01": true,*/
+	/*"gnc_w1m12": true,*/
+	/*"gnc_001": false,*/
+	/*"gnc_h22": true,*/
+	/*"gnc_m02": true,*/
+	/*"gnc_w1m12": true,*/
+	/*"gnc_m03": true,*/
+	/*"gnc_002": true,*/
+	/*"gnc_001": false,*/
+	/*"gnc_002": false,*/
+	/*"gnc_h22": true,*/
+	/*"gnc_m05": true,*/
+	/*"gnc_w1m12": true,*/
+	/*"gnc_m06": true,*/
+	"gnc_h22": true,
+	/*"gnc_m07": true,*/
+	"gnc_w1m12": true,
 	"gnc_001": false,
-	"gnc_m02": true,
+	"gnc_002": false,
+	"gnc_m08": true,
 }

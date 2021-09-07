@@ -8,3 +8,5 @@ Say you want to use your config on an other computer, here’s what you have to 
 - restart Sublime Text
 
 Done.
+
+**For more visit [check this discussion]()**

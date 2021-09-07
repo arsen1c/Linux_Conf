@@ -15,6 +15,7 @@
 		"LSP-eslint",
 		"LSP-pyright",
 		"LSP-typescript",
+		"MarkdownLivePreview",
 		"Package Control",
 		"Quokka",
 		"Sublime ES7 React Redux ReactNative JS snippets",
