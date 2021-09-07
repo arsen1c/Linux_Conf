@@ -1,0 +1,25 @@
+{
+	"color_scheme": "Mariana.sublime-color-scheme",
+	"font_size": 11,
+	"theme": "Adaptive.sublime-theme",
+	"ignored_packages":
+	[
+		"A File Icon",
+		"AutoPEP8",
+		"BracketHighlighter",
+		"DotENV",
+		"EJS 2",
+		"Firebase Snippets",
+		"Format JSDoc @params",
+		"HTML5",
+		"Markmon real-time markdown preview",
+		"Requester",
+		"Sass",
+		"SublimeLinter",
+		"SublimeLinter-eslint",
+		"Tailwind CSS",
+		"Tailwind CSS Autocomplete",
+		"Todo",
+		"Vintage",
+	],
+}
