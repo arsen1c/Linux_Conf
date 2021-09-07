@@ -1,16 +1,14 @@
 {
-	"color_scheme": "Mariana.sublime-color-scheme",
+	"color_scheme": "Packages/Guna/themes/Guna.sublime-color-scheme",
 	"font_size": 11,
-	"theme": "Adaptive.sublime-theme",
+	"font_face": "Fira Code",
+	"theme": "Guna.sublime-theme",
 	"ignored_packages":
 	[
-		"A File Icon",
 		"AutoPEP8",
-		"BracketHighlighter",
 		"DotENV",
 		"EJS 2",
 		"Firebase Snippets",
-		"Format JSDoc @params",
 		"HTML5",
 		"Markmon real-time markdown preview",
 		"Requester",
@@ -22,4 +20,46 @@
 		"Todo",
 		"Vintage",
 	],
+	/*"gnc_h21": true,*/
+	/*"gnc_m07": true,*/
+	/*"gnc_w1m10": true,*/
+	"gn_hide_tab_dropdown": true,
+	"gn_overlay_scroll_bars": true,
+	"gn_sidebar_box": true,
+	"gn_title_bar": true,
+	/*"gnc_001": false,*/
+	/*"gnc_002": false,*/
+	"gnwidg1": true,
+	"gnwidgo": true,
+	/*"gnc_m00": true,*/
+	/*"gnc_w1m11": true,*/
+	/*"gnc_h21": true,*/
+	/*"gnc_m01": true,*/
+	/*"gnc_w1m11": true,*/
+	/*"gnc_001": false,*/
+	/*"gnc_002": false,*/
+	/*"gnc_m04": true,*/
+	/*"gnc_m05": true,*/
+	/*"gnc_h21": true,*/
+	/*"gnc_m06": true,*/
+	/*"gnc_w1m11": true,*/
+	/*"gnc_h21": true,*/
+	/*"gnc_m07": true,*/
+	/*"gnc_w1m11": true,*/
+	/*"gnc_h21": true,*/
+	/*"gnc_m08": true,*/
+	/*"gnc_w1m11": true,*/
+	/*"gnc_001": true,*/
+	/*"gnc_h21": true,*/
+	/*"gnc_m04": true,*/
+	/*"gnc_w1m12": true,*/
+	/*"gnc_001": false,*/
+	/*"gnc_h21": true,*/
+	/*"gnc_m07": true,*/
+	/*"gnc_w1m12": true,*/
+	"gnc_h21": true,
+	/*"gnc_m01": true,*/
+	"gnc_w1m14": true,
+	"gnc_001": false,
+	"gnc_m02": true,
 }
