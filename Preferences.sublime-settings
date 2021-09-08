@@ -2,7 +2,14 @@
 	"color_scheme": "Packages/Guna/themes/Guna.sublime-color-scheme",
 	"font_size": 11,
 	"font_face": "Fira Code",
+	"caret_style": "phase",
+	"drag_text": false,
 	"theme": "Guna.sublime-theme",
+	"tab_size": 2,
+	"translate_tabs_to_spaces": true,
+	"highlight_line": true,
+	"match_brackets_angle": true,
+	"bold_folder_labels": true,
 	"ignored_packages":
 	[
 		"AutoPEP8",
@@ -10,7 +17,6 @@
 		"EJS 2",
 		"Firebase Snippets",
 		"HTML5",
-		"Markmon real-time markdown preview",
 		"Requester",
 		"Sass",
 		"SublimeLinter",
@@ -78,10 +84,34 @@
 	/*"gnc_m05": true,*/
 	/*"gnc_w1m12": true,*/
 	/*"gnc_m06": true,*/
-	"gnc_h22": true,
+	/*"gnc_h22": true,*/
 	/*"gnc_m07": true,*/
-	"gnc_w1m12": true,
+	/*"gnc_w1m12": true,*/
+	/*"gnc_001": false,*/
+	/*"gnc_002": false,*/
+	/*"gnc_m08": true,*/
+	/*"gnc_001": false,*/
+	/*"gnc_002": false,*/
+	/*"gnc_h14": true,*/
+	/*"gnc_m04": true,*/
+	/*"gnc_w2m14": true,*/
+	/*"gnc_001": false,*/
+	/*"gnc_h22": true,*/
+	/*"gnc_m03": true,*/
+	/*"gnc_w2m11": true,*/
+	/*"gnc_h22": true,*/
+	/*"gnc_m04": true,*/
+	/*"gnc_w2m11": true,*/
+	/*"gnc_001": false,*/
+	/*"gnc_002": false,*/
+	/*"gnc_m05": true,*/
+	/*"gnc_m07": true,*/
+	/*"gni_001": false,*/
+	/*"gni_002": false,*/
+	/*"gni_003": false,*/
 	"gnc_001": false,
 	"gnc_002": false,
-	"gnc_m08": true,
+	"gnc_h01": true,
+	"gnc_m03": true,
+	"gnc_w3m10": true,
 }
